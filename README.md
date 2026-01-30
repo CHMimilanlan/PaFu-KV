@@ -6,7 +6,7 @@
 <table border="0" style="width: 100%; text-align: center;">
   <tr>
     <td width="25%">
-      <video src="https://github.com/user-attachments/assets/8b7e93c1-f2ee-4712-9627-d839a58d18cf" width="100%" crossorigin="anonymous" muted controls></video>
+      <video src="https://github.com/user-attachments/assets/8b7e93c1-f2ee-4712-9627-d839a58d18cf" width="100%" muted controls></video>
     </td>
     <td width="25%">
       <video src="https://github.com/user-attachments/assets/a7401f49-8b7b-41c8-b242-723f720b0261" width="100%" muted controls></video>
