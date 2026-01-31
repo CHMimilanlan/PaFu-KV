@@ -1,5 +1,22 @@
 # PaFu-KV
 
+**Past- and Future-Informed KV Cache Policy with Salience Estimation in Autoregressive Video Diffusion**
+
+---
+
+## 📌 Overview
+
+This page provides **visual results (videos)** for the experiments reported in the paper:
+
+> **Past- and Future-Informed KV Cache Policy with Salience Estimation  
+> in Autoregressive Video Diffusion**
+
+All results are shown **for anonymous review purposes only**.  
+No identifying information is included.
+
+---
+
+
 ## 🎥 30s Video Generation Results
 
 
