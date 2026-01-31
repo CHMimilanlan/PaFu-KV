@@ -16,6 +16,14 @@ No identifying information is included.
 
 ---
 
+## 🎥 How to View the Results
+
+- Click the **play button** on each video to directly view the experimental results.
+- Each video is embedded for convenient inspection and can also be opened in a new tab if needed.
+
+> **Note for reviewers:**  
+> This page contains a large number of videos.  
+> Please allow some time for the videos to load before playback.
 
 ## 🎥 30s Video Generation Results
 
